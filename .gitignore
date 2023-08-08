@@ -1,1 +1,5 @@
 .env
+.DS_store
+*.log
+node_modules/
+vendor/
